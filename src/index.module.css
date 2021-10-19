@@ -1,0 +1,12 @@
+svg .path {
+    fill: #aaa;
+    stroke: #fff;
+}
+
+svg .path-active {
+    fill: red;
+}
+
+svg .path-hover {
+    fill: blue;
+}
